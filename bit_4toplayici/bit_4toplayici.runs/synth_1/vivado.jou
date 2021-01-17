@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Dec 22 14:22:40 2020
+# Process ID: 12972
+# Current directory: D:/BELGELER/PROJERLER/VVADO/VERLOG/bit_4toplayici/bit_4toplayici.runs/synth_1
+# Command line: vivado.exe -log bit_4adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bit_4adder.tcl
+# Log file: D:/BELGELER/PROJERLER/VVADO/VERLOG/bit_4toplayici/bit_4toplayici.runs/synth_1/bit_4adder.vds
+# Journal file: D:/BELGELER/PROJERLER/VVADO/VERLOG/bit_4toplayici/bit_4toplayici.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source bit_4adder.tcl -notrace

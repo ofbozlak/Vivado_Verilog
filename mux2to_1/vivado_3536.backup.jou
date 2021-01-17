@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jan  8 13:23:06 2021
+# Process ID: 3536
+# Current directory: D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11384 D:\BELGELER\PROJERLER\VVADO\VERLOG\mux2to_1\mux2to_1.xpr
+# Log file: D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/vivado.log
+# Journal file: D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.xpr
+update_compile_order -fileset sources_1

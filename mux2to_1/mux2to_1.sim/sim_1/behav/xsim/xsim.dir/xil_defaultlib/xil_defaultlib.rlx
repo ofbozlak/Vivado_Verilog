@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.srcs/sim_1/new/coounter_4bit_tb.v,1609871365,verilog,,,,coounter_4bit_tb,,,,,,,,
+D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.srcs/sim_1/new/dff_tb.v,1609780502,verilog,,,,dff_tb,,,,,,,,
+D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.srcs/sources_1/new/counter_4bit.v,1609871040,verilog,,D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.srcs/sim_1/new/coounter_4bit_tb.v,,counter_4bit,,,,,,,,
+D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.srcs/sources_1/new/d_filipflop.v,1609778894,verilog,,D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.srcs/sim_1/new/dff_tb.v,,d_filipflop,,,,,,,,

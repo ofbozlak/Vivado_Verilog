@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.srcs/sources_1/new/counter_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/BELGELER/PROJERLER/VVADO/VERLOG/mux2to_1/mux2to_1.srcs/sim_1/new/coounter_4bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module coounter_4bit_tb
